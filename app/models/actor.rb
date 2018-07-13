@@ -12,3 +12,7 @@ class Actor < ActiveRecord::Base
       end.join('')
   end
 end
+
+  
+
+  
